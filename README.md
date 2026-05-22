@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshyy/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himanshyy/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/himanshyy/leetcode-solutions/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1075-project-employees-i](https://github.com/himanshyy/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/himanshyy/leetcode-solutions/tree/master/1251-average-selling-price) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/himanshyy/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
