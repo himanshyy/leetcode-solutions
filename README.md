@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/himanshyy/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/himanshyy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshyy/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/himanshyy/leetcode-solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshyy/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/himanshyy/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
