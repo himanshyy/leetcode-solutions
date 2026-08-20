@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/himanshyy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshyy/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/himanshyy/leetcode-solutions/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/himanshyy/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/himanshyy/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/himanshyy/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/himanshyy/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/himanshyy/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
