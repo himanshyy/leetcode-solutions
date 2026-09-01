@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/himanshyy/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/himanshyy/leetcode-solutions/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/himanshyy/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
