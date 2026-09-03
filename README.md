@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshyy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/himanshyy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshyy/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/himanshyy/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himanshyy/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -228,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshyy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/himanshyy/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/himanshyy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
