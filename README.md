@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/himanshyy/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshyy/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/himanshyy/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/himanshyy/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/himanshyy/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/himanshyy/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/himanshyy/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/himanshyy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/himanshyy/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshyy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/himanshyy/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshyy/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
