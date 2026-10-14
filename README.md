@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/himanshyy/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/himanshyy/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/himanshyy/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/himanshyy/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/himanshyy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/himanshyy/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshyy/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshyy/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/himanshyy/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshyy/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/himanshyy/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/himanshyy/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/himanshyy/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/himanshyy/leetcode-solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/himanshyy/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/himanshyy/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
