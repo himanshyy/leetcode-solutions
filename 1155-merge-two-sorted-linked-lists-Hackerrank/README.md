@@ -1,4 +1,4 @@
-# [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem?isFullScreen=true)
+# [Merge two sorted linked lists](https://www.hackerrank.com/contests/itt-trainee-2027/challenges/merge-two-sorted-linked-lists/problem?isFullScreen=true)
 ## Easy
 <div class="challenge-body-html"><div class="challenge_problem_statement"><div class="msB challenge_problem_statement_body"><div class="hackdown-content"><svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><p><sub>This challenge is part of a tutorial track by <a href="http://www.youtube.com/mycodeschool">MyCodeSchool</a></sub></p>
 
