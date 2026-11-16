@@ -1,4 +1,4 @@
-# [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem?isFullScreen=true)
+# [Reverse a linked list](https://www.hackerrank.com/contests/itt-trainee-2027/challenges/reverse-a-linked-list/problem?isFullScreen=true)
 ## Easy
 <div class="challenge-body-html"><div class="challenge_problem_statement"><div class="msB challenge_problem_statement_body"><div class="hackdown-content"><svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><p><sub>This challenge is part of a tutorial track by <a href="http://www.youtube.com/mycodeschool">MyCodeSchool</a> and is accompanied by a video lesson.</sub></p>
 
